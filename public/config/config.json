@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD677Ccd9B4da1cd902b413c5568428FF8E9fA2e1",
+  "SCAN_LINK": "https://etherscan.io/address/0xD677Ccd9B4da1cd902b413c5568428FF8E9fA2e1",
+  "NETWORK": {
+    "NAME":"Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Lil Baby Lazy Lions",
+  "SYMBOL": "LBLL",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lilbabylazylion",
+  "SHOW_BACKGROUND": true
+}
